@@ -3,4 +3,3 @@ insert into matter values (102,'Improvements or additions to documentation', 'do
 insert into matter values (103,'This issue or pull request already exists', 'duplicate');
 insert into matter values (104,'New feature or request', 'enhacement');
 insert into matter values (105,'This doesnt seem right','invalid');
-insert into matter values (106, 'This will not be worked on','wontfix');
